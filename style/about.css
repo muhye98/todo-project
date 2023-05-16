@@ -33,6 +33,7 @@ body {
 
 .main-f {
     background-color: rgb(246, 248, 215);
+    padding: 200px;
 }
 
 .main-f .artical {
@@ -41,7 +42,6 @@ body {
     margin: 0 auto;
     justify-content: center;
     align-items: center;
-    padding: 100px;
     gap: 40px;
 }
 
