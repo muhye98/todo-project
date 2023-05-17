@@ -28,11 +28,11 @@ if (confirm('do you want to skip the welcome massage?') != true) {
 
 
 // first
-let qua = prompt('Do you like pizza? yes or no?');
+let qua = prompt('Do you like pizza? Yes or No?');
 //2nd 
-let qua1 = prompt('are you love coding? yes or no?');
+let qua1 = prompt('are you love coding? Yes or No?');
 //3rd
-let qua2 = prompt('Do you like CSGO game? yes or no?');
+let qua2 = prompt('Do you like CSGO game? Yes or No?');
 
 let arr = []
 
