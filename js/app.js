@@ -39,7 +39,7 @@ let arr = []
 function check(qus) {
     if (qus === "yes" || qus === "no") {
         arr.push(qus)
-    } else console.log("invaled")
+    } else arr.push("invalid")
 }
 check(qua)
 check(qua1)
